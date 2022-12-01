@@ -1,4 +1,4 @@
-# Algoritmo de búsqueda binaria con recursividad
+# Búsqueda binaria con recursividad
 
 def busbin(lis, ini, fin, num):
   if ini <= fin:

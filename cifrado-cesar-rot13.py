@@ -1,4 +1,4 @@
-# Algoritmo de Cifrado César (ROT13)
+# Cifrado César (ROT13)
 
 def cifrado_ROT13(cadena):
   cadena_cifrada = ""
