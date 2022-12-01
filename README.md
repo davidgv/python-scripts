@@ -12,3 +12,6 @@ Búsqueda binaria con recursividad
 
 ***busqueda-binaria-norecur.py***  
 Búsqueda binaria sin recursividad
+
+***bubble-sort***  
+Ordenación mediante burbuja, usando 2 variantes: completo y con flag de corte
