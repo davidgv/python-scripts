@@ -13,5 +13,8 @@ Búsqueda binaria con recursividad
 ***busqueda-binaria-norecur.py***  
 Búsqueda binaria sin recursividad
 
-***bubble-sort***  
+***bubble-sort.py***  
 Ordenación mediante burbuja, usando 2 variantes: completo y con flag de corte
+
+***arbol-navidad.py***  
+Dibujando un árbol de Navidad en la terminal
