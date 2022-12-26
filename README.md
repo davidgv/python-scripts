@@ -18,3 +18,6 @@ Ordenación mediante burbuja, usando 2 variantes: completo y con flag de corte
 
 ***arbol-navidad.py***  
 Dibujando un árbol de Navidad en la terminal
+
+***bosque-navidad.py***  
+Bosque navideño usando módulo turtle (Logo)
